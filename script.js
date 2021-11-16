@@ -1,3 +1,4 @@
+/*
 window.addEventListener("load", function() {
     console.log("Az oldal betöltődött.");
 });
@@ -104,7 +105,7 @@ theLastFunction(function() {
     return "I am calling the LastFunction.";
 })
 
-/* var window = {
+ var window = {
 addEventListener:function (eventName, eventFunction) {  }
 }
 */
